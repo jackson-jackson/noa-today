@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ae50358-8965-4904-8dfa-fdebc7d96cf6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/testimonials/nanaimo.jpg" afterPath="$PROJECT_DIR$/img/testimonials/nanaimo.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/testimonials/north-vancouver.jpg" afterPath="$PROJECT_DIR$/img/testimonials/north-vancouver.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/testimonials/toronto.jpg" afterPath="$PROJECT_DIR$/img/testimonials/toronto.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="noatoday.iws" />
     <ignored path=".idea/workspace.xml" />
